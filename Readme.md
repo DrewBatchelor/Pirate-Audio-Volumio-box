@@ -1,6 +1,6 @@
+![Pi case](https://github.com/DrewBatchelor/Pirate-Audio-Volumio-box/blob/master/VolumioPiZero.jpg)
 # For the Case
-Here are the 3D printable files make a case for the Pirate Audio Line out.
-I use mine with  Pirate Audio Line out hat and a Raspberry Pi Zero 2w
+Here are the 3D printable files make a case for the Pirate Audio Line out and a Raspberry Pi Zero 2w.
 For software use Volumio and fab Plugin by AxLED which makes the Hat work. Details in this thread: https://community.volumio.org/t/plugin-pirate-audio/44336
 
 ## To make the case:
